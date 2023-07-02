@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Todo.ba
+build_property.ProjectDir = C:\Users\Korisnik\Desktop\Todo.me-master\
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/View/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.View.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/View/SprintDetailsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.View.SprintDetailsView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SprintDetailsView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SprintDetailsView.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/View/SprintView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.View.SprintView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SprintView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SprintView.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/View/TodoDetailsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.View.TodoDetailsView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\TodoDetailsView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\TodoDetailsView.xaml
+
+[C:/Users/Korisnik/Desktop/Todo.me-master/View/TodoView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Todo.ba.View.TodoView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\TodoView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\TodoView.xaml
